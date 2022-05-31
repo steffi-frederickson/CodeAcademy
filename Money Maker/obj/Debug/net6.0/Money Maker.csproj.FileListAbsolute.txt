@@ -1,0 +1,15 @@
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\bin\Debug\net6.0\Money Maker.exe
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\bin\Debug\net6.0\Money Maker.deps.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\bin\Debug\net6.0\Money Maker.runtimeconfig.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\bin\Debug\net6.0\Money Maker.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\bin\Debug\net6.0\Money Maker.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\Money Maker.csproj.AssemblyReference.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\Money Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\Money Maker.AssemblyInfoInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\Money Maker.AssemblyInfo.cs
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\Money Maker.csproj.CoreCompileInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\Money Maker.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\refint\Money Maker.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\Money Maker.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\Money Maker.genruntimeconfig.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Money Maker\obj\Debug\net6.0\ref\Money Maker.dll
