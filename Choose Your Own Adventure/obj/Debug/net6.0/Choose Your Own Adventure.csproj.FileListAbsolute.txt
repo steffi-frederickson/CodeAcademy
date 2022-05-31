@@ -1,0 +1,15 @@
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\bin\Debug\net6.0\Choose Your Own Adventure.exe
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\bin\Debug\net6.0\Choose Your Own Adventure.deps.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\bin\Debug\net6.0\Choose Your Own Adventure.runtimeconfig.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\bin\Debug\net6.0\Choose Your Own Adventure.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\bin\Debug\net6.0\Choose Your Own Adventure.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\Choose Your Own Adventure.csproj.AssemblyReference.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\Choose Your Own Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\Choose Your Own Adventure.AssemblyInfoInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\Choose Your Own Adventure.AssemblyInfo.cs
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\Choose Your Own Adventure.csproj.CoreCompileInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\Choose Your Own Adventure.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\refint\Choose Your Own Adventure.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\Choose Your Own Adventure.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\Choose Your Own Adventure.genruntimeconfig.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Choose Your Own Adventure\obj\Debug\net6.0\ref\Choose Your Own Adventure.dll

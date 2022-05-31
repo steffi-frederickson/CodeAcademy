@@ -1,0 +1,15 @@
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\bin\Debug\net6.0\Mad Libs.exe
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\bin\Debug\net6.0\Mad Libs.deps.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\bin\Debug\net6.0\Mad Libs.runtimeconfig.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\bin\Debug\net6.0\Mad Libs.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\bin\Debug\net6.0\Mad Libs.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\Mad Libs.csproj.AssemblyReference.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\Mad Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\Mad Libs.AssemblyInfoInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\Mad Libs.AssemblyInfo.cs
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\Mad Libs.csproj.CoreCompileInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\Mad Libs.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\refint\Mad Libs.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\Mad Libs.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\Mad Libs.genruntimeconfig.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Mad Libs\obj\Debug\net6.0\ref\Mad Libs.dll
