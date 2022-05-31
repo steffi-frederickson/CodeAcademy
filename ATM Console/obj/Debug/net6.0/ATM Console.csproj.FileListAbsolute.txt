@@ -1,0 +1,15 @@
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\bin\Debug\net6.0\ATM Console.exe
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\bin\Debug\net6.0\ATM Console.deps.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\bin\Debug\net6.0\ATM Console.runtimeconfig.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\bin\Debug\net6.0\ATM Console.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\bin\Debug\net6.0\ATM Console.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ATM Console.csproj.AssemblyReference.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ATM Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ATM Console.AssemblyInfoInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ATM Console.AssemblyInfo.cs
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ATM Console.csproj.CoreCompileInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ATM Console.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\refint\ATM Console.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ATM Console.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ATM Console.genruntimeconfig.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\ATM Console\obj\Debug\net6.0\ref\ATM Console.dll
