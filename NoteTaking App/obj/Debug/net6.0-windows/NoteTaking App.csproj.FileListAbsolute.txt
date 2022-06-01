@@ -1,0 +1,17 @@
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.csproj.AssemblyReference.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking_App.NoteTaker.resources
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.csproj.GenerateResource.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.AssemblyInfoInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.AssemblyInfo.cs
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.csproj.CoreCompileInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\bin\Debug\net6.0-windows\NoteTaking App.exe
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\bin\Debug\net6.0-windows\NoteTaking App.deps.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\bin\Debug\net6.0-windows\NoteTaking App.runtimeconfig.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\bin\Debug\net6.0-windows\NoteTaking App.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\bin\Debug\net6.0-windows\NoteTaking App.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\refint\NoteTaking App.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\NoteTaking App.genruntimeconfig.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\NoteTaking App\obj\Debug\net6.0-windows\ref\NoteTaking App.dll
