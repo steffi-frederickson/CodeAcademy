@@ -1,0 +1,17 @@
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\bin\Debug\net6.0-windows\Tip-Tax-Total.exe
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\bin\Debug\net6.0-windows\Tip-Tax-Total.deps.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\bin\Debug\net6.0-windows\Tip-Tax-Total.runtimeconfig.json
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\bin\Debug\net6.0-windows\Tip-Tax-Total.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\bin\Debug\net6.0-windows\Tip-Tax-Total.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.csproj.AssemblyReference.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip_Tax_Total.Form1.resources
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.csproj.GenerateResource.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.AssemblyInfoInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.AssemblyInfo.cs
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.csproj.CoreCompileInputs.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\refint\Tip-Tax-Total.dll
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.pdb
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\Tip-Tax-Total.genruntimeconfig.cache
+C:\Users\C283182\OneDrive - Thomson Reuters Incorporated\Documents\C# Projects\Tip-Tax-Total\obj\Debug\net6.0-windows\ref\Tip-Tax-Total.dll
